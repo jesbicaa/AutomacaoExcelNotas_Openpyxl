@@ -5,3 +5,5 @@ Pega as notas de todos os bimestres de todas as matérias.
 Coloca essas notas em uma planilha Excel, desenvolvida pelo <a href="https://github.com/Caicao001">Caique Caires</a>.
 Essa planilha faz a conta para ver quanto falta para ser aprovado na matéria ou se já foi aprovado. O mesmo acontece em relação as áreas de ensino.
 Ao fim, o programa envia esse Excel pelo email que o usuário passou.
+
+Versão com o Openpyxl.
