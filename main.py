@@ -13,9 +13,9 @@ import re
 class Scrappy:
     def iniciar(self):
         self.email_usuario()
-        #self.login_site()
-        #self.raspagem_de_dados()
-        #self.colocar_dados_excel()
+        self.login_site()
+        self.raspagem_de_dados()
+        self.colocar_dados_excel()
         self.enviar_email_usuario()
     def email_usuario(self):
         self.email = input('Digite o email para receber o relatorio de média:\n')
